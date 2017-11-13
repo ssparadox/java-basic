@@ -22,14 +22,4 @@ public class AccessExampleTest {
         assertEquals(accessExample.age, 21);
         assertEquals(accessExample.profile, "Rioter");
     }
-
-    @Test
-    public void overload() {
-    }
-
-    @Test
-    public void override() {
-
-    }
-
 }

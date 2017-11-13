@@ -15,8 +15,4 @@ public class WeatherData {
     private float humidity;
     // 기압
     private float pressure;
-
-    public void broadcast(WeatherData weatherData) {
-        // TODO 각종 장비로 broadcasting 한다.
-    }
 }

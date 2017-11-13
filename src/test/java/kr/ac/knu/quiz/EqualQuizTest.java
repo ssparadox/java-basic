@@ -21,7 +21,7 @@ public class EqualQuizTest {
         Integer n1 = new Integer(100);
         Integer n2 = new Integer(100);
 
-        assertThat("wrapper == 비교", n1 == n2, is(false));
+        assertThat("wrapper == 비교", n1 == n2, is(true));
     }
 
     @Test
@@ -58,6 +58,6 @@ public class EqualQuizTest {
         String s1 = new String("Hello");
         String s2 = new String("Hello");
 
-        assertThat("new String == new String => true", s1 == s2, is(false));
+        assertThat("new String == new String => true", s1 == s2, is(true));
     }
 }

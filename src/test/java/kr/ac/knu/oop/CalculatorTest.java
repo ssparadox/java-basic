@@ -29,27 +29,26 @@ public class CalculatorTest {
     public void test_overload() {
         int i = 10;
         int j = 20;
-        int k = 60;
-
-        int result = calculator.plus(i, j);
-
-        assertEquals(result, 60);
+        int k = 30;
 
         // TODO overload 는 왜 쓸까?
+//        int result = calculator.plus(i, j, k);
+//        assertEquals(60, result);
     }
 
     @Test
     public void test_override() {
-        int i = 10;
-        int j = 20;
+        // 화투 끗 계산하기.
+        int i = 6;
+        int j = 13;
 
-        int result = calculator.plus(i, j);
-        assertEquals(result, 15);
+
+//        int result = calculator.plus(i, j);
+//        assertEquals(9, result);
 
         // TODO override 는 왜 쓸까?
     }
 
     public class ExtendedCalculator extends Calculator {
-
     }
 }
