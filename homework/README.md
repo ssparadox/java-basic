@@ -12,7 +12,7 @@
 **7조**
 + kim eun kyeong
 + Lee Seung Jae
-+ 
++ Kwon yeon wook
 + Kim Dong Hyun
 - - -
 
