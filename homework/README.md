@@ -11,7 +11,7 @@
 
 **7조**
 + kim eun kyeong
-+ 
++ Lee Seung Jae
 + 
 + 
 - - -
