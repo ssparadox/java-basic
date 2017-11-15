@@ -12,7 +12,7 @@
 **7조**
 + kim eun kyeong
 + 
-+ 
++ Kwon yeon wook
 + 
 - - -
 
