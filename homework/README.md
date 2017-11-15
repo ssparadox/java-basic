@@ -2,11 +2,18 @@
 
 ## 각 조는 하단에 아래와 같은 형식으로 조원의 구성원을 입력하세요
 
-**X조**
-+ Tony
-+ David
-+ Ian
-+ Robin
+**5조**
++ won seo young
++ kim jun pyo
++ 
++ 
+- - -
+
+**7조**
++ kim eun kyeong
++ Lee Seung Jae
++ Kwon yeon wook
++ Kim Dong Hyun
 - - -
 
 **3조**
@@ -38,6 +45,7 @@
 
 ## 조건
 1. PR 및 merge 는 15일 00:00 이후 부터 가능. (그 이전엔 무효처리)
+1. 숙제 마감은 19일 00:00까지 입니다.
 1. 자기 이름은 반드시 자기가 commit 을 해야 한다. (따라서 한 조에 구성원이 4명이면 commit 은 최소 4회가 되어야 합니다)
 3. 조장은 write 권한이 있기 때문에 다른 조의 PR을 merge 혹은 close 할 수 있습니다.. 다른 조의 PR은 가급적 손 대지 마세요.
 3. merge 하는 과정에서 conflict 가 발생할 수 있습니다. 이거 해결하는게 주된 내용이에요.
